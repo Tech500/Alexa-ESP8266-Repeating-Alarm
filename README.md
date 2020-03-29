@@ -1,7 +1,5 @@
 # Alexa-ESP8266-Repeating-Alarm
-Alarm project utilizing Alexa, ESP8266 and a contact sensor for a Door or Window.
-
-“Alexa,” Repeating ESP8266/ ESP32 Alarm –by William M. Lucid, AB9NQ
+Alarm project utilizing Alexa, ESP8266 and a contact sensor for a Door or for a Window.
 
 “Sinric Pro” allows for interfacing ESP32/ESP8266 microcontrollers and includes a Github repository for a “Arduino C++” library.   Skill can be enabled from Amazon, for “Alexa” it is a free Skill:  https://www.amazon.com/HOME-Sinric-Pro/dp/B07ZT5VDT8 .  
 Sixteen “Arduino” library example Sketches are included.  Devices that could be attached to esp32/ESP8266 microcontrollers; for example, a Contactsensor is a device used on a doors or windows to detect open or closed condition.  Project uses an “Alexa Echo,” an ESP8266, a Contactsensor, and a Resistor.  Circuit using the contactsensor was assembled on breadboard with Dupont jumper wires, a ESP8266, and a common contact sensor https://www.amazon.com/NTE-Electronics-54-627-Magnetic-Terminals/dp/B007Z7OGQU for development of the modified code.  
