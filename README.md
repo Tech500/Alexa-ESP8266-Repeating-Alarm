@@ -40,7 +40,7 @@ Upon completion of the project; Alexa can be asked:” Alexa being in the Group 
 
 More code was added the Sketch for NTP Time server protocol, over UDP; which requires using the “Arduino,” WiFiUdp library.  This added code is commented in the modified Sketch. 
 
-Total Project cost is under $10.00, if you already have one of the “Amazon Echo” devices “Amazon Alexa” devices for purchase:  https://www.amazon.com/s?k=alexa+devices&ref=nb_sb_noss_1 
+Total Project cost is under $10.00, if you already have one of the “Amazon Echo” devices “Amazon Alexa” devices for purchase:  https://www.amazon.com/s?k=alexa+devices&ref=nb_sb_noss_1  
 
 
 
