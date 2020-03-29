@@ -31,7 +31,7 @@ if ((digitalRead(CONTACT_PIN) == LOW) && ((MINUTE % 10) == 0))
 “if ((digitalRead(CONTACT_PIN) == LOW) && ((MINUTE % 10) == 0))“ condition of the “CONTACT_PIN,” which is defined as pin 4  is “LOW,” and the “MINUTE” = 10, 20, 30, 40, 50, or 60 (MINUTE  %  10  ==  0) then continues.  The next “if” condition limits the number of passes that are processed.  
 Upon completion of the project; Alexa can be asked:” Alexa being in the Group “Garage”, “Alexa is the Garage open or closed.”    “Alexa” can also be asked: “Alexa is device name opened   or closed. “ Additionally, every ten minutes there is a “Red-Alert” alarm; that was created earlier in the “Announce Open” routine.   Alarm will sound as long as the contactsensor is “open.”
 More code was added the Sketch for NTP Time server protocol, over UDP; which requires using the “Arduino,” WiFiUdp library.  This added code is commented in the modified Sketch. 
-Total Project cost is under $10.00, if you already have one of the “Amazon Echo” devices “Amazon Alexa” devices for purchase:  https://www.amazon.com/s?k=alexa+devices&ref=nb_sb_noss_1
+Total Project cost is under $10.00, if you already have one of the “Amazon Echo” devices “Amazon Alexa” devices for purchase:  https://www.amazon.com/s?k=alexa+devices&ref=nb_sb_noss_1 
 
 
 
