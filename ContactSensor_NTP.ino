@@ -71,6 +71,9 @@ time_t tnow = 0;
                                               // LOW  = contact is open
                                               // HIGH = contact is closed
 
+#define pass   2       //If not getting annoucement from "Alexa" and sound effect; incrementally, adjust this value.   Increasing or decreasing this vpass value.
+
+
 bool myPowerState = true;
 bool actualContactState;
 // assume device is turned on
@@ -196,7 +199,7 @@ void loop() {
     if ((digitalRead(CONTACT_PIN) == LOW) && ((MINUTE % 10) == 0)) 
     {
 
-        if(SECOND < 2)    
+        if(SECOND < pass)    
         {  
             
 		  //---------------- Sinric Pro code ----------------
