@@ -1,4 +1,9 @@
 /*
+
+
+        Sinricpro's "contactsensor.ino"  example modified by William M. Lucid for Two contact sensors.
+        
+        
  * Example for SinricPro Contactsensor device:
  * - Setup contactsensor device
  * - Support onPowerState to turn on / turn off contactsensor
